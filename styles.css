@@ -1,24 +1,12 @@
-#student-table {
-    max-height: 400px;
-    overflow: scroll;
-}
-
-th, tr {
-    width: 33%;
-}
-
-.present {
-    color: gray;
-    font-style: italic;
-}
-
-.absent {
-    color: black;
-    font-weight: bold;
-}
-
-[v-cloak] {
-    display: none;
-}
-
-
+.sketching {
+    background-color: #264653;
+    color: #dddddd;
+  }
+  
+  .drawing {
+   background-color: #E76F51;
+  }
+  
+  .painting {
+    background-color: #E9C46A;
+  }
